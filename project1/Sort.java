@@ -4,7 +4,7 @@ class Sort
 {
 	public static void main(String args[])throws IOException
 	{
-		int ch;
+		int ch=0;
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		do
 	{
